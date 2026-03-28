@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \":*)",
+      "Bash(ls /home/zessta/Documents/ip/*.txt /home/zessta/Documents/ip/*.toml /home/zessta/Documents/ip/*.cfg)"
+    ]
+  }
+}
